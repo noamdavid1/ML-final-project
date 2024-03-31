@@ -25,5 +25,5 @@ Here are the results:
 ![WhatsApp Image 2024-03-17 at 15 39 21](https://github.com/noamdavid1/ML-final-project/assets/93923600/72768a62-fd24-48b9-84db-ef3590185268)
 
 collaborators:
-Noam David 
-Yogev Ofir
+Noam David.                                                                                             
+Yogev Ofir.
